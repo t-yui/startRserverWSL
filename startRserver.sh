@@ -8,7 +8,7 @@ function log() {
 ​
 sudo service rstudio-server start
 if [ $? -gt 0 ]; then
-    log "[ERROR] Rserver did not started."
+    log "[ERROR] Rserver did not start."
 else
     log "[INFO] Rserver started successfully!"
     echo "Access the URL Below"
