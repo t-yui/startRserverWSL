@@ -7,3 +7,6 @@
 
 - The log function used in the script is cited from the article below:
   - [シェルスクリプトのロギングを楽にするtips](https://qiita.com/Ets/items/cd3baa5cecbf553f822d)
+
+- Usage of this script is written on the article below:
+  - [WSL上のLinuxへインストールしたRstudio Serverの起動を楽にする](https://qiita.com/t-yui/items/62eeb5ac39f5cd360118)
